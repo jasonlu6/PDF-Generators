@@ -1,4 +1,4 @@
-# KPMG PDF generator script for the Technology Bundle Checklist
+# PDF generator script for the technology bundles Cyber Monday 2025 November shopping. 
 
 from fpdf import FPDF
 
